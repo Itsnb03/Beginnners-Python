@@ -20,7 +20,7 @@ print(a)
 #Comparison Operators
 
 x = 8
-y = 3
+y = 1
 z = 8
 print(x>y)
 print(x<y)
