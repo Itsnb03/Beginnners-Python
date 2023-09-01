@@ -1,0 +1,10 @@
+l1 = [112,4,231,231,231]
+print(type(l1))
+print(l1)
+#l1.remove("nb")
+#l1.sort()
+#l1.pop()
+#l1.append()
+#l1.clear()
+l1.extend([89,73,34,2])
+print(l1)
